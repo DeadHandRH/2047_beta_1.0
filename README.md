@@ -4,13 +4,9 @@ My first Ren`Py project web version
 
 или сюда: https://deadhandrh.github.io/2047_beta_1.0_web_version/
 
-
-
-
 *  Описание и ссылки на авторов
 
 Мой первый проект. Предварительное имя "2047".
-
 
 Мой GitHub: DeadHandRH [DeadHandRH](https://github.com/DeadHandRH).
 
@@ -18,14 +14,10 @@ My first Ren`Py project web version
 
 Эл. почта: [deadhandrh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=deadhandrh@gmail.com).
 
-
 Все персонажи вымышлены, все совпадения с реальностью случайны. Ничего не пропагандирую, никого не осуждаю.
 Рекомендую к прохождению лицам старше 18 лет с устойчивой психикой. Остальным не рекомендую.
 
-
-
-
-*  Разработка:
+*   Разработка:
 
 Автор сценария - я (DeadHandRH).
 
