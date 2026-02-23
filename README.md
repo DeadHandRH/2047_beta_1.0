@@ -2,9 +2,15 @@
 My first Ren`Py project web version
 Чтобы играть, нажмите сюда: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/)
 
-    Описание и ссылки на авторов
+или сюда: https://deadhandrh.github.io/2047_beta_1.0_web_version/
+
+
+
+
+*  Описание и ссылки на авторов
 
 Мой первый проект. Предварительное имя "2047".
+
 
 Мой GitHub: DeadHandRH [DeadHandRH](https://github.com/DeadHandRH).
 
@@ -12,17 +18,20 @@ My first Ren`Py project web version
 
 Эл. почта: [deadhandrh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=deadhandrh@gmail.com).
 
+
 Все персонажи вымышлены, все совпадения с реальностью случайны. Ничего не пропагандирую, никого не осуждаю.
 Рекомендую к прохождению лицам старше 18 лет с устойчивой психикой. Остальным не рекомендую.
 
 
-    Разработка:
+
+
+*  Разработка:
 
 Автор сценария - я (DeadHandRH).
 
 Автор скрипта - я (DeadHandRH).
        
-    Изображения:
+*  Изображения:
 
 Изображения сгенерированны мной (DeadHandRH) при помощи моделей генеративного искусственного интеллекта на сайте [Tensor.Art](https://tensor.art/).
 
@@ -37,7 +46,7 @@ My first Ren`Py project web version
 Авторы данных моделей разрешили использование без указания их авторства, а также продажу сгенерированного контента.
 Но в знак благодарности я хочу их указать.
 
-    Музыка:
+*  Музыка:
 
 Автор всех использованных в игре композиций: Kevin MacLeod.
 Сайт автора: [incompetech.com](https://incompetech.com)
@@ -55,7 +64,7 @@ Local Forecast — Elevator.
 
 Лицензия: [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
-    Звуки:
+*  Звуки:
 
 Произведены и записаны мной (DeadHandRH).
 
