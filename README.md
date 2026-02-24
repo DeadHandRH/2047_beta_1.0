@@ -20,7 +20,7 @@ My first Ren`Py project web version
 
 Мой первый проект. Предварительное имя "2047".
 
-Мой GitHub: DeadHandRH [DeadHandRH](https://github.com/DeadHandRH).
+Мой GitHub: [DeadHandRH](https://github.com/DeadHandRH).
 
 Мой GitVerse: [DeadHandRH](https://gitverse.ru/DeadHandRH).
 
