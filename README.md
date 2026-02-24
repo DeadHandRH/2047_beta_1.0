@@ -2,9 +2,12 @@
 
 My first Ren`Py project web version
 
-> Чтобы играть, нажмите сюда: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/) (через GitHub).
+> Играть онлайн: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/) (через GitHub).
 
-> Играть через GitVerse: [2047_beta_1.0](https://deadhandrh.gitverse.site/2047_beta_1-0_web_version)
+> Играть через GitVerse: [2047_beta_1.0](https://deadhandrh.gitverse.site/2047_beta_1-0_web_version).
+
+> Первый релиз игры на ПК для Windows и Linux доступен в разделе "Релизы". [Скачать на ПК](https://github.com/DeadHandRH/2047_beta_1.0_web_version/releases/tag/%60v1.0%60)
+
 
 ---
 
