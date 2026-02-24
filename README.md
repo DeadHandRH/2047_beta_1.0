@@ -2,21 +2,13 @@
 
 My first Ren`Py project web version
 
-*
+> Чтобы играть, нажмите сюда: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/) (через GitHub).
 
-Чтобы играть, нажмите сюда: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/) (через GitHub).
+> Играть через GitVerse: [2047_beta_1.0](https://deadhandrh.gitverse.site/2047_beta_1-0_web_version)
 
-Полная ссылка: https://deadhandrh.github.io/2047_beta_1.0_web_version/
+---
 
-Играть через GitVerse: [2047_beta_1.0](https://deadhandrh.gitverse.site/2047_beta_1-0_web_version)
-
-полная ссылка: https://deadhandrh.gitverse.site/2047_beta_1-0_web_version
-
-*
-
-*  Описание:
-
-*
+> ***Описание:***
 
 Мой первый проект. Предварительное имя "2047".
 
@@ -28,11 +20,9 @@ My first Ren`Py project web version
 Все персонажи вымышлены, все совпадения с реальностью случайны. Ничего не пропагандирую, никого не осуждаю.
 Рекомендую к прохождению лицам старше 18 лет с устойчивой психикой. Остальным не рекомендую.
 
-*
 
-*  Ссылки на меня:
-  
-*
+> ***Ссылки на меня:***
+
 
 Мой GitHub: [DeadHandRH](https://github.com/DeadHandRH).
 
@@ -40,25 +30,24 @@ My first Ren`Py project web version
 
 Эл. почта: [deadhandrh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=deadhandrh@gmail.com).
 
-*
 
-*   Разработка:
+---
 
-*   
+
+> ***Разработка:***
+
 
 Автор сценария - я (DeadHandRH).
 
 Автор скрипта - я (DeadHandRH).
 
-*
        
-*  Изображения:
+> ***Изображения:***
 
-*  
 
 Изображения сгенерированны мной (DeadHandRH) при помощи моделей генеративного искусственного интеллекта на сайте [Tensor.Art](https://tensor.art/).
 
-Использовались модели: 
+***Использовались модели:***
 
 ["HyperReal Fusion – Edition - HRF.Ver 4.1"](https://tensor.art/models/933258055737428788?source_id=kDizoVrllUm1pfYqYHj29RIl),
 Автор: Azwar Black Mask.
@@ -69,43 +58,31 @@ My first Ren`Py project web version
 Авторы данных моделей разрешили использование без указания их авторства, а также продажу сгенерированного контента.
 Но в знак благодарности я хочу их указать.
 
-*
 
-*  Музыка:
-
-*  
+> ***Музыка:***
+ 
 
 Автор всех использованных в игре композиций: Kevin MacLeod.
 Сайт автора: [incompetech.com](https://incompetech.com)
 
-Использованные треки:
+***Использованные треки:***
 
-Almost Bliss,
-
-Sovereign,
-
-Reaching Out,
-
-Wallpaper,
-
-George Street Shuffle,
-
-RetroFuture Clean,
-
-Nile's Blues,
-
-Local Forecast — Elevator.
+1. Almost Bliss,
+2. Sovereign,
+3. Reaching Out,
+4. Wallpaper,
+5. George Street Shuffle,
+6. RetroFuture Clean,
+7. Nile's Blues,
+8. Local Forecast — Elevator.
 
 Лицензия: [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
-*
 
-*  Звуки:
+> ***Звуки:***
 
-*  
 
 Произведены и записаны мной (DeadHandRH).
 
-*
 
-Игра сделана с помощью [Ren'Py](https://www.renpy.org/)
+> ***Игра сделана с помощью*** [Ren'Py](https://www.renpy.org/)
