@@ -70,12 +70,19 @@ My first Ren`Py project web version
 Использованные треки:
 
 Almost Bliss,
+
 Sovereign,
+
 Reaching Out,
+
 Wallpaper,
+
 George Street Shuffle,
+
 RetroFuture Clean,
+
 Nile's Blues,
+
 Local Forecast — Elevator.
 
 Лицензия: [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
