@@ -1,7 +1,5 @@
 # 2047_beta_1.0 web version
 
-*
-
 My first Ren`Py project web version
 
 *
@@ -80,13 +78,13 @@ RetroFuture Clean,
 Nile's Blues,
 Local Forecast — Elevator.
 
-*
-
 Лицензия: [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
 *
 
 *  Звуки:
+
+*  
 
 Произведены и записаны мной (DeadHandRH).
 
